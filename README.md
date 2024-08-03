@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vmlnayak
-- 👀 I’m interested in Python Django
-- 🌱 I’m currently learning AWS cloud Services
+- 👀 I’m interested in Java,Python and AI
+- 🌱 I’m currently growing in AWS Cloud Services
 - 📫 How to reach me ...vimalhnayak@gmail.com
 
 <!---
